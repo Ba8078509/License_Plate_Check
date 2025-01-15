@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "License_Plate_Check/1.0.0": {
+        "runtime": {
+          "License_Plate_Check.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "License_Plate_Check/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
